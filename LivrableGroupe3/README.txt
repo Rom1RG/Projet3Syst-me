@@ -1,0 +1,2 @@
+- Les différents diagrammes de gantt se trouve dans le dossier Annexe
+- des captures d'écrans des différents diagrammes sont également disponible dans le récapitulatif de l'organisation du projet
